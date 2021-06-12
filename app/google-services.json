@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899935637574",
+    "firebase_url": "https://zonasamarillas-default-rtdb.firebaseio.com",
+    "project_id": "zonasamarillas",
+    "storage_bucket": "zonasamarillas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899935637574:android:80f879ea64f541cab2ba47",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899935637574-c50vvmcq52opi4rgc0b5u3pebosv67go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYjJAUmt7TzJjtk7yKOLYv5h0YR376fzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899935637574-c50vvmcq52opi4rgc0b5u3pebosv67go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
